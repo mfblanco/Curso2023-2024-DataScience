@@ -4,7 +4,7 @@ Nombre y apellidos de los miembros del grupo:
 - Mario Fernández Blanco
 - Miguel Gallego Soriano
 - Carmen Estévez Martínez
-- Javier González Sorli
+- Javier González Sorli e
 - Alba Lozano Guixa 
 
 Usuarios de GitHub de los miembros (respectivamente):
